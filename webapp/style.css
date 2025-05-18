@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+#books {
+    list-style: none;
+    padding: 0;
+}
+#books li {
+    margin-bottom: 8px;
+    padding-left: 16px;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12"><circle cx="6" cy="6" r="6" fill="%23007acc"/></svg>') no-repeat left center;
+    background-size: 12px 12px;
+}
